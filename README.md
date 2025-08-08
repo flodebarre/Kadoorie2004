@@ -6,6 +6,10 @@ Reference: Kadoorie farm & Botanic garden, 2004. Wild Animal Trade Monitoring at
 
 Available at <https://www.kfbg.org/images/download/Wild%20Animal%20Trade%20Monitoring%20in%20Selected%20Markets%20in%20Guangzhou%20and%20Shenzhen%2C%20South%20China%2C%202000-2003_ENG.pdf> (accessed 2025-08-08)
 
+Comment in the report (p. 5):  
+> There was a clear seasonal trend in which a lot more mammals (both wild-caught and captive-bred)
+were available in the food market during the winter months from November to February (Figs. 2 & 3)  
+
 Data from Figures 2 and 3, showing fluctuations in the sales of select species.  
 ![Screenshot of Figure 2](Kadoorie_Fig2.png)  
 ![Screenshot of Figure 3](Kadoorie_Fig3.png)  
